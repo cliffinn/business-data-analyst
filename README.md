@@ -37,7 +37,8 @@ Welcome to my business data analytics portfolio! I am proficient in advanced ana
 
 
 ## Tools & Technologies
-- Python
+- Jira
+- Trello
 - SQL
 - R Programming
 - Excel
@@ -45,8 +46,8 @@ Welcome to my business data analytics portfolio! I am proficient in advanced ana
 - Power BI
 - R Studio
 - BigQuery
-- Snowflake
-- Google Data Studio
+- Microsoft Visio
+- Azure DevOps
 
 ## Certifications
 - [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/BPTFSXB95SHQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
